@@ -1,4 +1,2 @@
 # Gmeet_clone
-Developed a video calling website, which uses Google Authentication , in which multiple users can connect with their
-videos and audios with the options of muting and hiding video. Features include Whiteboard, Chatbox and Leave Meeting. 
-Key Technologies used includes HTML, CSS, Javascript,NodeJs, SocketIO,WebRTC
+  A video-conferencing website that enables secure connections for multiple users through their video and audio feeds. The platform offers a range of advanced capabilities including muting, video toggling, and a collaborative whiteboard. It incorporates chat functionality and a convenient leave-meeting option to enhance user interaction. The website was developed using a technology stack encompassing HTML, CSS, JavaScript, Node.js, Socket.IO, and Google Authentication, ensuring a comprehensive and seamless user experience.
